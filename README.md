@@ -1,13 +1,5 @@
-### Hi there 👋
 
-- 🔭 I’m currently working on Clone apps
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Github
-- 🤔 I’m looking for help with Competitive Coding
-- 💬 Ask me about JS or Python
-- 📫 How to reach me: tejashreepai0@gmail.com
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I listen to music at least 6 hours everyday
+- 
 -->
 
 <div align="center">
@@ -15,7 +7,15 @@
 </div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tejashree, you can call me Tej!</h1>
-<h3 align="center">I'm a Flutter Developer</h3>
+<h3 align="center">
+-🔭 I’m currently working on Clone apps
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate on Github
+- 🤔 I’m looking for help with Competitive Coding
+- 💬 Ask me about JS or Python
+- 📫 How to reach me: tejashreepai0@gmail.com
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I listen to music at least 6 hours everyday</h3>
 
   <br>
 

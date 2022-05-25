@@ -1,5 +1,6 @@
+### Hi there 👋
 
-<!--- 🔭 I’m currently working on Clone apps
+- 🔭 I’m currently working on Clone apps
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with Competitive Coding
@@ -10,10 +11,10 @@
 -->
 
 <div align="center">
- <a  href="#"><img width="60%" align="center" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" /></a>
+ <a  href="#" align="center"><img width="60%" align="center" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" /></a>
 </div>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tejashree, you can call me Tej</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tejashree, you can call me Tej!</h1>
 <h3 align="center">I'm a Flutter Developer</h3>
 
   <br>

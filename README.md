@@ -1,37 +1,26 @@
+<h1 align="center">Hi 👋, I'm Tejashree, you can call me Tej</h1>
+<h3 align="center">A passionate Frontend developer from India</h3>
 
-<!--div align="center">
- <a  href="#" align="center"><img width="60%" align="center" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" /></a>
-</div-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=teejay-tej&label=Profile%20views&color=0e75b6&style=flat" alt="teejay-tej" /> </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tejashree, you can call me Tej!</h1>
-<h3 align="center">🔭 I’m currently working on Clone apps</h3>
-<h3 align="center"> 🌱 I’m currently learning Flutter</h3>
-<h3 align="center"> 👯 I’m looking to collaborate on Github</h3>
-<h3 align="center"> 🤔 I’m looking for help with Competitive Coding</h3>
-<h3 align="center"> 💬 Ask me about JS or Python</h3>
-<h3 align="center"> 📫 How to reach me: tejashreepai0@gmail.com</h3>
-<h3 align="center"> 😄 Pronouns: She/her</h3>
-<h3 align="center"> ⚡ Fun fact: I listen to music at least 6 hours everyday</h3>
+- 🔭 I’m currently working on *Clone apps*
 
-  <br>
+- 💬 Ask me about *JS and Python*
 
+- 📫 How to reach me *tejashreepai0@gmail.com*
 
-## 🚀 Languages and Tools:<br>
+- ⚡ Fun fact *I listen to music at least 6 hours everyday*
 
-<p align="center"> 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/></a> 
-     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="48" height="48"/></a>
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-   
+<h3 align="center-left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/tej" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tej" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tejashree k murthy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejashree k murthy" height="30" width="40" /></a>
+<a href="https://instagram.com/tejashreekm_pai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tejashreekm_pai" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<br/>
-<p align="center">📊 My Github Stats</p>
 <p align="center">
 <a href="https://github.com/Teejay-tej/github-readme-stats"> <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teejay-tej&count_private=true&theme=radical&layout=compact" alt="Tejashree K Murthy" /></a>
 
@@ -50,22 +39,3 @@
 <img align="center" width="80%" src="https://wakatime.com/share/@7ada6100-e98d-41b5-bc53-aa23530beb19/b25b1e10-7aab-44a0-8fce-b320f8bb9950.svg" />
 </div>
 
- 
-
-
-<!-- ![Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Benny&theme=dracula) -->
-
-<br/>
-
--- Connect with me:
-<br/>
-<!--<a href = "https://www.linkedin.com/in/akshay-benny-5346bb209/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/akshay_benny_976/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>-->
-
-<br/>
--- Views and Followers:
-<br/>
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Teejay-tej">
-</a>
-<a href="https://github.com/Teejay-tej?tab=followers"><img src="https://img.shields.io/github/followers/Teejay-tej?label=Followers&style=social" alt="GitHub Badge"></a>

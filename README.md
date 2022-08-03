@@ -27,11 +27,11 @@
 </p>
 
   <br/>
-    <a href="https://github.com/Teejay-tej/github-readme-stats"><img  align="left" width="48%" src='https://github-readme-stats.vercel.app/api?username=Teejay-tej&show_icons=true&theme=radical&count_private=true'/>
+    <a href="https://github.com/Teejay-tej/github-readme-stats"><img  align="center" width="48%" src='https://github-readme-stats.vercel.app/api?username=Teejay-tej&show_icons=true&theme=radical&count_private=true'/>
 </a>
- <!--a href="https://github.com/Teejay-tej/github-readme-streak-stats">
+ <a href="https://github.com/Teejay-tej/github-readme-streak-stats">
     <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Teejay-tej&count_private=true&theme=radical" alt="Tejashree K Murthy"/>
-    </a-->
+    </a>
   
   <br/>
 <br>
